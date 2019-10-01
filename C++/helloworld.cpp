@@ -1,4 +1,4 @@
-//Program to print 'HELLO WORLD!' ft. Recurtion
+//Program to print 'HELLO WORLD!' ft. Recursion
 #include<iostream>
 #include<conio.h>
 char a[]="HELLO WORLD!";
